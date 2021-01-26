@@ -1,3 +1,5 @@
+# Code for the Paper "How to Query Language Models?"
+
 ## Setup conda environment
 ```
 conda create --name lmkb python=3.8
