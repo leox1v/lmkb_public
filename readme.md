@@ -50,3 +50,10 @@ From this summary, you can now generate the table and plots of the paper as foll
 ```
 python results/results.py --summary_file out/results/summary.csv --output_dir out/results/summary/
 ```
+
+### TWC Experiments
+```
+cd twc_experiment
+pip install -r requirements.txt
+CUDA_VISIBLE_DEVICES=0 python main.py --lm albert-xxlarge-v2 --agent lmkb --num_priming_examples 10
+```
