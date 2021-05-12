@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+ipython
+matplotlib
+nltk
+pillow
+gym==0.15.4
+textworld==1.2.0
+tqdm
+torch
+torchvision
+absl-py
+python-igraph
+transformers
+editdistance

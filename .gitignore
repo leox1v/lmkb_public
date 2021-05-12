@@ -3,3 +3,5 @@ data/LAMA/
 data/BATS_3.0/
 *.csv
 *.pickle
+*venv*
+*.idea/
